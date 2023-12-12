@@ -6,7 +6,7 @@ let alorap = '';
 bottone.addEventListener('click', function() {
 
     for (let i = 0; i < 10; i++) {
-        console.log('lunghezza');
+        console.log('');
     }
 
 });
